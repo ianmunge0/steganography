@@ -1,1 +1,2 @@
 # steganography
+Run with IntelliJ
